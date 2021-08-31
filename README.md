@@ -39,7 +39,7 @@ Vue.use(VerticalTimeline);
 
 You can import as a Nuxt.js plugin
 
-`~/plugins/vertical-timeline.js`
+`~/plugins/vue-vertical-timeline.js`
 
 ```js
 import Vue from "vue";
