@@ -59,7 +59,7 @@ plugins: ["~/plugins/vue-vertical-timeline.js"];
 
 | Property name       | Type    | Default   | Description                                                                                    |
 | ------------------- | ------- | --------- | ---------------------------------------------------------------------------------------------- |
-| items               | Array   | null      | Array of objects to be displayed.                       |
+| items               | Array   | null      | Array of objects to be displayed.                                                              |
 | item-selected       | Object  | {}        | Object that is set when it is clicked. Note that `clickable` prop must be set to true          |
 | title-attr          | String  | 'title'   | Name of the property inside the objects, that are in the items array, to set the cards title   |
 | title-centered      | Boolean | false     | Centralizes the cards title                                                                    |
